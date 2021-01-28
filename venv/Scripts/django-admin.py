@@ -1,4 +1,4 @@
-#!d:\coding\latihan python\pythonproject\venv\scripts\python.exe
+#!c:\users\jegan\desktop\django-coastal-guard\venv\scripts\python.exe
 # When the django-admin.py deprecation ends, remove this script.
 import warnings
 
